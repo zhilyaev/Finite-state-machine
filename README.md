@@ -10,8 +10,7 @@
 3.	Разработать программную реализацию построенного автомата
 4. 	Описать заданный язык автоматной грамматикой
 
-### Граф Переходов
-![Граф Переходов](https://github.com/zhilyaev/Finite-state-machine/blob/master/finite-state-machine.png)
+
 
 ### Регулярное выражение
 ```
@@ -22,6 +21,7 @@ Y2={avb}aba
 ```
 > V -  дизъюнкция; ИЛИ
 
+### Граф Переходов
 ![graph-mermaid](https://raw.githubusercontent.com/zhilyaev/Finite-state-machine/master/graph.svg)
 
 
